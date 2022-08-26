@@ -25,17 +25,17 @@ global.group1 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙත�
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94765790381' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group2 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
+global.owner = ['94765790381',''] //මෙතන number එක.
+global.premium = ['94765790381','9476342733'] //මෙතන number එක.
+global.botname = 'LAKIYA BOT MD' //මෙතන නම.
+global.ownername = 'LAKIYA🙂' //මෙතන නම.
+global.ownername = 'LAKIYA🙂' //මෙතන නම.
+global.group2 = 'https://https://chat.whatsapp.com/JVnhodYEoHF2TZKzgiTNiw' //මෙතන grouplink එක.
+global.packname = 'LAKIYA BOT✌️🙂' //මෙතන නම.
+global.cap = '*By LAKIYA*' //මෙතන නම.
 global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
@@ -45,12 +45,12 @@ global.goldAwal = '10' //මෙතන මාරු කරන්න එපා.
 global.emeraldAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.umpanAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.potionAwal = '1' //මෙතන මාරු කරන්න එපා.
-global.dripstyping = false //මෙතන මාරු කරන්න එපා.
+global.dripstyping = true //මෙතන මාරු කරන්න එපා.
 global.dripsreadgroup = false //මෙතන මාරු කරන්න එපා. 
 global.dripsreadall = false //මෙතන මාරු කරන්න එපා.
 global.dripsrecord = false //මෙතන මාරු කරන්න එපා.
-global.available = false //මෙතන මාරු කරන්න එපා.
-global.unavailable = true //මෙතන මාරු කරන්න එපා.
+global.available = true //මෙතන මාරු කරන්න එපා.
+global.unavailable = false //මෙතන මාරු කරන්න එපා.
 global.limittot = 100, //මෙතන මාරු කරන්න එපා.
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation' //මෙතන මාරු කරන්න එපා.
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' //මෙතන මාරු කරන්න එපා.
